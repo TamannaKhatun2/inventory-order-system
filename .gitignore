@@ -30,3 +30,4 @@ __pycache__/
 backend/*.db
 backend/*.sqlite
 backend/*.sqlite3
+.vercel
