@@ -1,0 +1,32 @@
+# Backend python files
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.venv/
+backend/venv/
+
+# Frontend node files
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Local configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python cache and local database
+__pycache__/
+*.py[cod]
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
